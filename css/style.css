@@ -1,0 +1,16 @@
+/*
+	TicTacToe Styles
+*/
+
+#box {
+	background-color: #6FE7DD;
+	border: 1px solid #008000;
+	width: 100px;
+	height: 100px;
+	font-size: 66px;
+	text-align: center;
+}
+#start {
+	width: 200px;
+	font-family: 'Comoc Sans MS';
+	font-size: 40px;
